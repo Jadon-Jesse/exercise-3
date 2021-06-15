@@ -6,7 +6,7 @@ For this last exercise, you will need to write a full stack end-to-end applicati
 TODO: More information
 
 Some examples
-TODO
+TODO2
 
 ### Pre-requisites
 * complete exercise 1
